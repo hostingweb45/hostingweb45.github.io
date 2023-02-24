@@ -1,0 +1,28 @@
+.text-justify{
+    font-size: 11px;
+}
+
+.modal-dialog {
+    position: fixed;
+    width: 100% !important;
+    margin: 0 !important;
+    pointer-events: none !important;
+    height: 100% !important;
+    background: white !important;} 
+
+.question .text-center{
+    display: none;
+}
+
+    .question .active{
+        display: block;
+    }
+    .modal-content{
+        border-color: black !important;
+    }
+.result1 button{
+    margin-bottom: 110px;
+}
+#space{
+    padding-bottom: 170px;
+}
